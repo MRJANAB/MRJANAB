@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MRJANAB</h1>
-<h3 align="center">CYBER SECURITY ENTHUSIAST, BUG HUNTER, SCAMBAITER</h3>
+<h3 align="center">CYBER SECURITY ENTHUSIAST, BUG HUNTER</h3>
 
 <br/>
 <br/>
