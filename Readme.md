@@ -4,11 +4,11 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently Learning about **filter evasion  techniques**
+- 🌱 Cyber Security Student
 
-- 💬 Ask me about **Linux and all security stuffs**
+- 💬 Bug Bounty Hunter
 
-- ⚡ Fun fact **I love Messing with linux..**
+- ⚡ Every Relationship Is A Power Struggle. Some Of Us Need To Be Controlled.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
