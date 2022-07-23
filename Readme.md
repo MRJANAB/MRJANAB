@@ -1,33 +1,11 @@
 ## <img height="40" src="/icons/kyubey.gif"/>
-# Hi, I'm <img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box">
+# Hi, I'm MRJANAB
 
 <img align="right" alt="GIF" src="/icons/code.gif?raw=true" width="500" height="320" />
 
-```
-root@bughunt3r:~# cat about.txt
---- .--. .. -. .. --- -. ... / .- .-. . / -- -.-- / --- .-- -.
-```
-
-
-
-## Found me on 
-<a href="https://tryhackme.com/p/akrecH">
-  <img align="left" alt="TryHackMe" width="22px" src="/icons/tryhackme.png" />
-</a>
-<a href="https://www.instagram.com/a_k_r_e_c_h/">
-  <img align="left" alt="akrech's Instagram" width="22px" src="/icons/instagram.png" />
-</a>
-<a href="https://facebook.com/itz.a.k.r.e.c.h">
-  <img align="left" alt="akrech's facebook" width="22px" src="/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/a_k_r_e_c_H">
-  <img align="left" alt="akrecH | Twitter" width="22px" src="/icons/twitter.svg" />
-</a>
-
---------------------------
 <p align="left"> 
   <h2>Visitor count<br>
-  <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
+  <img src="https://profile-counter.glitch.me/MRJANAB/count.svg" />
 </p>
 
 
