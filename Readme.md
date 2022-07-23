@@ -1,31 +1,56 @@
-<h1 align="center">Hi 👋, I'm MRJANAB</h1>
-<h3 align="center">CYBER SECURITY ENTHUSIAST, BUG HUNTER</h3>
+## <img height="40" src="/icons/kyubey.gif"/>
+# Hi, I'm <img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box">
 
-<br/>
-<br/>
+<img align="right" alt="GIF" src="/icons/code.gif?raw=true" width="500" height="320" />
 
-- 🌱 Cyber Security Student
+```
+root@bughunt3r:~# cat about.txt
+--- .--. .. -. .. --- -. ... / .- .-. . / -- -.-- / --- .-- -.
+```
 
-- 💬 Bug Bounty Hunter
 
-- ⚡ Every Relationship Is A Power Struggle. Some Of Us Need To Be Controlled.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Found me on 
+<a href="https://tryhackme.com/p/akrecH">
+  <img align="left" alt="TryHackMe" width="22px" src="/icons/tryhackme.png" />
+</a>
+<a href="https://www.instagram.com/a_k_r_e_c_h/">
+  <img align="left" alt="akrech's Instagram" width="22px" src="/icons/instagram.png" />
+</a>
+<a href="https://facebook.com/itz.a.k.r.e.c.h">
+  <img align="left" alt="akrech's facebook" width="22px" src="/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com/a_k_r_e_c_H">
+  <img align="left" alt="akrecH | Twitter" width="22px" src="/icons/twitter.svg" />
+</a>
+
+--------------------------
+<p align="left"> 
+  <h2>Visitor count<br>
+  <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<!--Linux -->
-<p align="left"> <a href="https://www.linux.org/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<!--Python -->
-<a href="https://pythonbasics.org" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-<!--Bash -->
-<a href="https://www.tutorialspoint.com/unix/index.htm" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash scriprting" width="40" height="40"/>
-<!--Ubuntu -->
-</a><a href="https://ubuntu.com/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/> </a>
-<!--Metasploit -->
-<a href="https://www.metasploit.com/" target="__blank"> <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" alt="Metasploite" width="40" height="40"/> </a>
-<!--Burp Suite -->
-<a href="https://portswigger.net/" target="__blank"> <img src="https://user-images.githubusercontent.com/17954762/47567241-4b4f2080-d92e-11e8-830c-b5db21beab69.png" alt="Burp Suite" width="40" height="40"/> </a>
- </p>
-              
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akr3ch&layout=compact)](https://github.com/akr3ch/github-readme-stats)
+
+<a href="https://akr3ch.github.io">
+  <img align="right" alt="Wicker" width="100px" src="/icons/icon-hacker.png" />
+</a>
+
+![akr3ch GitHub stats](https://github-readme-stats.vercel.app/api?username=akr3ch&show_icons=true&theme=radical)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vs-code.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="/icons/python.png" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="26px" src="/icons/shell.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="/icons/html5.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="/icons/css3.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="/icons/js.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="/icons/git.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="/icons/github.png" style="padding-right:10px;" />
+
+
+---------------
+
 
